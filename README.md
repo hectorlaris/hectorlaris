@@ -24,10 +24,14 @@ skills = {
     "IaC": ["Terraform", "Ansible", "Chef"]
 }
 ```
+## 🏅 AWS Certifications & Badges
 
-## 🏅 Badges
+[![AWS Skill Builder Profile](https://img.shields.io/badge/AWS-Certification_Badges-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://skillsprofile.skillbuilder.aws/user/hectorlaris/certification-badges)
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+[View my AWS certification badges →](https://skillsprofile.skillbuilder.aws/user/hectorlaris/certification-badges)
+
+## 🛠️ Technologies & Tools
+
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Programming-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -38,6 +42,7 @@ skills = {
 ![Ansible](https://img.shields.io/badge/Ansible-IaC-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+
 
 ## ⚽ Hobbies
 
