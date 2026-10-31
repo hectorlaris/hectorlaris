@@ -20,9 +20,8 @@ skills = {
     "Architecture": ["Microservices", "EDA"],
     "Code": ["C#", "Python", "Java", "TypeScript"],
     "CI/CD": ["GitHub Actions", "GitLab CI"],
-    "Containers": ["Docker", "Kubernetes"],
-    "IaC": ["Terraform", "Ansible", "Chef"],
-    "Observability": ["Prometheus"]
+    "Container": ["Docker", "Kubernetes"],
+    "IaC": ["Terraform", "Ansible", "Chef"]
 }
 ```
 
