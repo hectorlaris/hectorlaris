@@ -17,7 +17,7 @@
 skills = {
     "Framework": ["TOGAF", "BIAN"],
     "Cloud": ["AWS", "Azure"],
-    "Architecture": ["Microservices", "EDA"],
+    "Architecture": ["Microservices", "EDA", "SOAP", "REST", "C/S"],
     "Code": ["C#", "Python", "Java", "TypeScript"],
     "CI/CD": ["GitHub Actions", "GitLab CI"],
     "Container": ["Docker", "Kubernetes"],
