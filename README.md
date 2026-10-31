@@ -2,7 +2,7 @@
 
 **Solutions Architect at Colombiana de Servicios Informáticos SAS**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor%20Serrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor%20Serrano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-serrano-91982447)
 
 ## 🧔🏽💻 About me
 
