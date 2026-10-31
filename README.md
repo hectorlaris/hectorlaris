@@ -9,7 +9,7 @@
 - 🎓 Systems Engineer from **Universidad Industrial de Santander (UIS)**
 - 👨🏽‍💻 Writing and fixing code since **1992**
 - 🤔 Exploring new technologies and developing software solutions and quick hacks
-- 🌱 Learning about Cloud Tech, Infrastructure as Code, CI/CD, and more cool stuff
+- 🌱 Learning about TOGAF, Cloud Tech, BIAN, CI/CD and more cool stuff
 
 ## 🛠️ Tech Stack
 
