@@ -44,6 +44,7 @@ skills = {
 - 🏃‍♂️ Running and staying active
 - 🎮 Playing videogames with my son
 - 📖 Reading and learning something new
+- 🤝 Open to collaborating on SDLC and software architecture projects
 
 ## 🤝🏻 Connect with me
 
