@@ -42,9 +42,9 @@ skills = {
 
 ## ⚽ Hobbies
 
-- ⚽ Running
+- 🏃‍♂️ Running and staying active
 - 🎮 Playing videogames with my son
-- 🍹 Reading
+- 📖 Reading and learning something new
 
 ## 🤝🏻 Connect with me
 
